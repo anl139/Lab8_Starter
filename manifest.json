@@ -2,13 +2,13 @@
     "name": "/anl139/Lab8_Starter",
     "short_name": "Andrew Lam",
     "description": "A recipe card app",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "icons": [
       {
-      "src": "/Lab8_Starter/assets/images/icons/icon-256x256.png",
+      "src": "Lab8_Starter/assets/images/icons/icon-256x256.png",
       "sizes": "256x256",
       "type": "image/png"
       }
